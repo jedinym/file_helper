@@ -1,0 +1,9 @@
+E:\Programy\C#\fileHelper\fileHelper\bin\Debug\fileHelper.exe.config
+E:\Programy\C#\fileHelper\fileHelper\bin\Debug\fileHelper.exe
+E:\Programy\C#\fileHelper\fileHelper\bin\Debug\fileHelper.pdb
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.csproj.CoreCompileInputs.cache
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.exe
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.pdb
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.csprojAssemblyReference.cache
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.csproj.GenerateResource.cache
+E:\Programy\C#\fileHelper\fileHelper\obj\Debug\fileHelper.Documentation.ErrorCodes.resources

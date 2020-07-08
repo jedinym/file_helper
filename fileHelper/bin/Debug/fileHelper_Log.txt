@@ -1,0 +1,17 @@
+
+01/04/2019 21:17:30 Inputs: lotId
+01/04/2019 21:17:30 All input paths exist
+01/04/2019 21:17:32 Lines in file B without header: 816022
+02/04/2019 18:07:06 Inputs: lotId
+02/04/2019 18:07:07 All input paths exist
+02/04/2019 18:07:09 Lines in file B without header: 816022
+02/04/2019 18:07:09 Total lines in file A without header: 9
+02/04/2019 18:07:09 Output file stream opened succesfully
+02/04/2019 18:07:09 Header copied to output file
+02/04/2019 18:07:22 Lines deleted from file B based on file A: 6092
+02/04/2019 18:07:22 Total lines in file C without header: 1700
+02/04/2019 18:07:22 Lines left in file B based on file C: 805804
+02/04/2019 18:07:22 Finished writing to file D
+02/04/2019 18:07:22 Output file closed
+02/04/2019 18:07:22 Operation complete in: 00:00:15.9349665
+

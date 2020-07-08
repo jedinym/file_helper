@@ -1,0 +1,12 @@
+﻿1000 - Specified column not found in file B
+1001 - Too few arguments
+1002 - Too many arguments
+1005 - Headers of files B and D don't match; can't merge files
+1006 - Unauthorized access to output file
+1007 - Cannot write logs to specified filepath; make sure to include filename and file format
+1010 - File A input path does not exist
+1011 - File B input path does not exist
+1012 - File C input path does not exist
+1013 - File D input path does not exist
+1014 - Specified column not found in file A
+1015 - Specified column not found in file C
